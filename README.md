@@ -9,9 +9,9 @@
 
 <H3>📄 About:</H3>
 
-- Year: 2020
-- Version:  20.5 x64 Build 0.60
-- Developer: corel
+- Year: 2021
+- Version:  20.5 x64
+- Developer: microsoft
 - For Windows 10/11
 
 <H3>🖥️ System requirements: </H3>
